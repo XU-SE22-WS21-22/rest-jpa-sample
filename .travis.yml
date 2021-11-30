@@ -1,2 +1,2 @@
 language: java
-mvnw spring-boot:run
+mvn spring-boot:run
