@@ -1,2 +1,4 @@
 language: java
-mvn spring-boot:run
+./mvnw spring-boot:run
+before_install:
+  - chmod +x mvnw
